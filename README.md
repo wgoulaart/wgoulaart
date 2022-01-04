@@ -14,25 +14,30 @@ Front-end designer look into UI Engineer or Front-end Engineer, Curious and an e
 class William extends People {
   name: string;
   living: string;
-  
+
   constructor() {
     super();
     this.name = "William Goulart";
     this.living = "Campo Grande - MS";
   }
-  
-  languages: Array<string> = [
-    "Portuguese",
-    "English",
-  ];
-  
-  technologies & Tools: {
-      JavaScript : ["Vanilla", Typescript", "React.js", "Nextjs", "Vue", "Styled-components"];
-      CSS        : ["Sass", BEM", "OOCSS"];
-      Design     : ["Figma", "Tailwind", "Material-UI"];
-      APIs       : ["REST"];
+
+  languages: Array<string> = ["Portuguese", "English"];
+
+  technologies_and_tools: {
+    JavaScript: [
+      "Vanilla",
+      "React.js",
+      "Nextjs",
+      "Typescript",
+      "Styled-components",
+      "Vue"
+    ],
+    CSS: ["Sass", "BEM", "OOCSS"],
+    Design: ["Figma", "Tailwind", "Material-UI"],
+    APIs: ["REST"],
   };
 }
+
 ```
 
 ### Some other stats about me 🤘🏻
