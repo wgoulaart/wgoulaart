@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wgoulaart/)](https://bit.ly/3JKDbeE)
 [![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williamgoulart1@hotmail.com)](mailto:williamgoulart1@hotmail.com)
 
-Front-end Engineer at @mercadolibre, Curious and an eternal apprentice 🤘🏻
+Front-end Engineer, curious and an eternal apprentice 🤘🏻
 
 #### 🌱 I’m currently learning about Next.js, Storybook, testing-library and graphl ...
 
